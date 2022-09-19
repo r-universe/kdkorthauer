@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "scDD"]
+	path = scDD
+	url = https://github.com/kdkorthauer/scdd
+	shallow = true
+	registered = true
